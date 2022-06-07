@@ -1,4 +1,4 @@
-module github.com/gitsight/go-vcsurl
+module github.com/getsynq/go-vcsurl
 
 go 1.14
 
